@@ -1,0 +1,16 @@
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\bin\Debug\Клавиатурный тренажер.exe.config
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\bin\Debug\Клавиатурный тренажер.exe
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\bin\Debug\Клавиатурный тренажер.pdb
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.csproj.AssemblyReference.cache
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.csproj.SuggestedBindingRedirects.cache
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\MainWindow.g.cs
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\App.g.cs
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер_MarkupCompile.cache
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер_MarkupCompile.lref
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\MainWindow.baml
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.g.resources
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный_тренажер.Properties.Resources.resources
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.csproj.GenerateResource.cache
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.csproj.CoreCompileInputs.cache
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.exe
+C:\Users\мк\source\repos\Клавиатурный тренажер\Клавиатурный тренажер\obj\Debug\Клавиатурный тренажер.pdb
